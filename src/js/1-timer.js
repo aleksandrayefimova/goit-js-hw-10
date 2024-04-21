@@ -16,6 +16,7 @@ const refs = {
   minutes: document.querySelector('[data-minutes]'),
   seconds: document.querySelector('[data-seconds]'),
 }
+
 const date = new Date();
 const objectDate = {};
 const options = {
